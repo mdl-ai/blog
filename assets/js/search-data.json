@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "My first blog post",
-            "content": "Testing this hole thing out . x = 10 + 2 x . 12 .",
-            "url": "https://mdl-ai.github.io/blog/2021/06/05/first.html",
-            "relUrl": "/2021/06/05/first.html",
+            "title": "My First Blog Post - test",
+            "content": "x = 10 + 2 x . 12 .",
+            "url": "https://mdl-ai.github.io/blog/jupyter/2021/06/05/first.html",
+            "relUrl": "/jupyter/2021/06/05/first.html",
             "date": " • Jun 5, 2021"
         }
         
